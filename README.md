@@ -1,4 +1,4 @@
-## django-and-uwsgi-on-docker
+## django-and-uwsgi-in-docker
 
 This is a test program about Django, uwsgi and docker
 
